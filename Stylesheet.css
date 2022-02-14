@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(253, 245, 235);
+    margin: 5em;
+}
+
+h1{
+    font-family: "Trirong", serif;
+    font-size: 3em;
+    color: brown;
+}
+
+h2{
+    font-family: "Trirong", serif;
+    font-size: 1.5em;
+    color:brown; 
+}
+
+p, ul {
+    max-width: 60em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    color: chocolate;
+    margin-bottom: 1em;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.image{  
+    float: right;
+    padding: 5px;
+}
